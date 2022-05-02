@@ -1,4 +1,6 @@
 #Aprendendo GIT
 
-##Meu primeiro
-projeto usando git
+Meu primeiro projeto usando GIT
+
+arquivos:
+    README.md
